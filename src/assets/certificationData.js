@@ -1,10 +1,17 @@
 export default [
     {
-        id:1,
-        imgPath:"https://images.credly.com/size/680x680/images/b3f32b39-40ec-48d9-a7cf-7ffbbc3d5549/image.png",
-        description:"AWS Tech U Graduate",
-        validationURL:"https://www.credly.com/badges/b7d70c21-6904-4ac5-8dda-5519be71cba2/linked_in_profile"
+        id:0,
+        imgPath:"https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png",
+        description:"AWS - Serverless",
+        validationURL:"https://www.credly.com/earner/earned/badge/49c4f2fb-309d-47d6-9735-973840543281"
     },
+    {
+        id:1,
+        imgPath:"https://images.credly.com/size/340x340/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png",
+        description:"Well-Architected Proficient",
+        validationURL:"https://www.credly.com/earner/earned/badge/49c4f2fb-309d-47d6-9735-973840543281"
+    },
+    
     {
         id:2,
         imgPath:"https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png",
@@ -38,6 +45,12 @@ export default [
     {
         id:7,
         imgPath:"https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png",
+        description:"AWS Certified Cloud Practitioner",
+        validationURL:"https://www.credly.com/badges/b7d70c21-6904-4ac5-8dda-5519be71cba2/linked_in_profile"
+    },
+    {
+        id:7,
+        imgPath:"https://images.credly.com/size/680x680/images/b3f32b39-40ec-48d9-a7cf-7ffbbc3d5549/image.png",
         description:"AWS Tech U Graduate",
         validationURL:"https://www.credly.com/badges/b7d70c21-6904-4ac5-8dda-5519be71cba2/linked_in_profile"
     },
