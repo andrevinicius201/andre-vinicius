@@ -8,7 +8,7 @@ export default [
     {
         id:1,
         imgPath:"https://images.credly.com/size/340x340/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png",
-        description:"Well-Architected Proficient",
+        description:"AWS Certified Database - Specialty",
         validationURL:"https://www.credly.com/earner/earned/badge/49c4f2fb-309d-47d6-9735-973840543281"
     },
     
